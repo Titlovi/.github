@@ -1,4 +1,4 @@
-﻿# Dobrodošli na Titlovi.com! 🎉
+﻿# Dobro došli na Titlovi.com! 🎉
 
 ## Uvod:
 Naša filozofija je da sve na sajtu bude **od zajednice, za zajednicu**. U skladu s tim, odlučili smo da i sam sajt vodimo u tom smjeru. Smatramo da je to sljedeći logični korak u našem razvoju.
